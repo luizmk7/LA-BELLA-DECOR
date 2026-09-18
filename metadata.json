@@ -1,0 +1,6 @@
+{
+  "name": "La Bella Decor",
+  "description": "Decoração de festas: no local, Pegue e Monte e Festa na Mesa em Vitória da Conquista, BA. Solicite seu orçamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
